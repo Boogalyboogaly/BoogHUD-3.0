@@ -2554,7 +2554,18 @@ Scheme
 				"tall"		"48"
 				"antialias" "1"
 			}
-		}		
+		}
+		CicleSemi18BOLD
+		{
+			"1"
+			{
+				"name"		"Cicle Semi"
+				"tall"		"18"
+				"antialias" "1"
+				"weight" 	"750"
+			}
+		}	
+				
 	}
 	
 	// CUSTOM FONTS

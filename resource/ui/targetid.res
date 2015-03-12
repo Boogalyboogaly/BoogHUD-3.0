@@ -96,17 +96,12 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"FontStoreOriginalPrice"
-		"font_minmode"	"DefaultVerySmall"
-		"xpos"			"8"
-		"xpos_minmode"	"30"
-		"ypos"			"17"	[$WIN32]
-		"ypos_minmode"	"12"	[$WIN32]
-		"ypos"			"22"	[$X360]
-		"ypos_hidef"		"25"	[$X360]
+		"font"			"CicleSemi14"
+		"xpos"			"60"
+		"ypos"			"10"	[$WIN32]
 		"zpos"			"1"
 		"wide"			"280"
-		"tall"			"15"
+		"tall"			"30"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -120,17 +115,15 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
-		"xpos"			"3"
-		"xpos_minmode"	"0"
-		"ypos"			"2"
-		"ypos_minmode"	"0"
-		"wide"			"32"
-		"tall"			"32"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"50"
+		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"0"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
-		"TFFont"		"HudFontSmall"
+		"TFFont"		"CicleSemi14"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"		"HudOffWhite"
 	}	
